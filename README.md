@@ -1,2 +1,0 @@
-# Speelcheck
-"algorithim assignment"
